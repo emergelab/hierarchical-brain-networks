@@ -1,0 +1,425 @@
+﻿A424,Nodes,ROI,AA-7,Abbreviation,Name,AA-24,Abbreviation,Name,AA-50,Abbreviation,Name,AAc-6,Abbreviation,Name,AAc-22,Abbreviation,Name
+1,R_V1,Primary Visual Co+C181+C2:C180,1,VI,Visual,22,med VI,Medial VI,22,med VI,Medial VI,1,VI,Visual,1,med VI,Medial VI
+2,R_MST,Medial Superior Temporal Area,1,VI,Visual,15,midL VI,Midlateral VI,15,midL VI,Midlateral VI,1,VI,Visual,14,midL VI,Midlateral VI
+3,R_V6,Sixth Visual Area,1,VI,Visual,1,paraM VI,Paramedial VI,1,paraM VI,Paramedial VI,1,VI,Visual,1,med VI,Medial VI
+4,R_V2,Second Visual Area,1,VI,Visual,22,med VI,Medial VI,22,med VI,Medial VI,1,VI,Visual,1,med VI,Medial VI
+5,R_V3,Third Visual Area,1,VI,Visual,22,med VI,Medial VI,22,med VI,Medial VI,1,VI,Visual,1,med VI,Medial VI
+6,R_V4,Fourth Visual Area,1,VI,Visual,8,infL VI,Inferolateral VI,8,lat VI,Lateral VI,1,VI,Visual,7,infL VI,Inferolateral VI
+7,R_V8,Eighth Visual Area,1,VI,Visual,8,infL VI,Inferolateral VI,46,face VI,Face Complex VI,1,VI,Visual,7,infL VI,Inferolateral VI
+8,R_4,Primary Motor Cortex,4,SM,Sensorimotor,4,cent SM,Central SM,25,cent SM,Central SM,4,SM,Sensorimotor,4,cent SM,Central SM
+9,R_3b,Primary Sensory Cortex,4,SM,Sensorimotor,4,cent SM,Central SM,25,cent SM,Central SM,4,SM,Sensorimotor,4,cent SM,Central SM
+10,R_FEF,Frontal Eye Fields,2,VS,Ventral Salience,2,inf VS,Inferior VS,33,FEF VS,Frontal Eye Fields VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+11,R_PEF,Premotor Eye Field,6,DS,Dorsal Salience,16,inf DS,Inferior DS,34,PEF DS,Premotor Eye Field DS,5,DS,Dorsal Salience,13,inf DS,Inferior DS
+12,R_55b,Area 55b,2,VS,Ventral Salience,2,inf VS,Inferior VS,39,para VS,Paralateral VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+13,R_V3A,Area V3A,1,VI,Visual,1,paraM VI,Paramedial VI,36,postL VI,Posterolateral VI,1,VI,Visual,1,med VI,Medial VI
+14,R_RSC,RetroSplenial Complex,3,CE,Central Executive,21,limb CE,Limbic CE,21,limb CE,Limbic CE,6,CE,Central Executive,10,limb CE,Limbic CE
+15,R_POS2,Parieto-Occipital Sulcus Area 2,3,CE,Central Executive,21,limb CE,Limbic CE,21,limb CE,Limbic CE,6,CE,Central Executive,10,limb CE,Limbic CE
+16,R_V7,Seventh Visual Area,1,VI,Visual,19,supL VI,Superolateral VI,19,supL VI,Superolateral VI,1,VI,Visual,20,supL VI,Superolateral VI
+17,R_IPS1,IntraParietal Sulcus Area 1,1,VI,Visual,9,para VI,Para VI,9,para VI,Para VI,1,VI,Visual,8,para VI,Para VI
+18,R_FFC,Fusiform Face Complex,1,VI,Visual,8,infL VI,Inferolateral VI,46,face VI,Face Complex VI,1,VI,Visual,7,infL VI,Inferolateral VI
+19,R_V3B,Area V3B,1,VI,Visual,19,supL VI,Superolateral VI,19,supL VI,Superolateral VI,1,VI,Visual,20,supL VI,Superolateral VI
+20,R_LO1,Area Lateral Occipital 1,1,VI,Visual,8,infL VI,Inferolateral VI,8,lat VI,Lateral VI,1,VI,Visual,7,infL VI,Inferolateral VI
+21,R_LO2,Area Lateral Occipital 2,1,VI,Visual,8,infL VI,Inferolateral VI,8,lat VI,Lateral VI,1,VI,Visual,7,infL VI,Inferolateral VI
+22,R_PIT,Posterior InferoTemporal Complex,1,VI,Visual,8,infL VI,Inferolateral VI,8,lat VI,Lateral VI,1,VI,Visual,7,infL VI,Inferolateral VI
+23,R_MT,Middle Temporal Area,1,VI,Visual,15,midL VI,Midlateral VI,15,midL VI,Midlateral VI,1,VI,Visual,14,midL VI,Midlateral VI
+24,R_A1,Primary Auditory Cortex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+25,R_PSL,PeriSylvian Language Area,2,VS,Ventral Salience,2,inf VS,Inferior VS,39,para VS,Paralateral VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+26,R_SFL,Superior Frontal Language Area,5,DM,Default Mode,13,lang DM,Language DM,48,broca DM,Broca (BA45) DM,3,DM,Default Mode,9,lang DM,Language DM
+27,R_PCV,PreCuneus Visual Area,5,DM,Default Mode,5,med DM,Medial DM,28,paraPM DM,Para-posterioromedial DM,3,DM,Default Mode,22,limb DM,Limbic DM
+28,R_STV,Superior Temporal Visual Area,2,VS,Ventral Salience,17,post VS,Posterior VS,17,post VS,Posterior VS,2,VS,Ventral Salience,16,post VS,Posterior VS
+29,R_7Pm,Medial Area 7P,3,CE,Central Executive,3,ri CE,Right CE,49,riPL CE,Right Posterolateral CE,6,CE,Central Executive,6,ri CE,Right CE
+30,R_7m,Area 7m,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+31,R_POS1,Parieto-Occipital Sulcus Area 1,5,DM,Default Mode,5,med DM,Medial DM,28,paraPM DM,Para-posterioromedial DM,3,DM,Default Mode,22,limb DM,Limbic DM
+32,R_23d,Area 23d,3,CE,Central Executive,21,limb CE,Limbic CE,21,limb CE,Limbic CE,6,CE,Central Executive,10,limb CE,Limbic CE
+33,R_v23ab,Area Ventral 23 a+b,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+34,R_d23ab,Area Dorsal 23 a+b,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+35,R_31pv,Area 31p Ventral,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+36,R_5m,Area 5m,4,SM,Sensorimotor,4,cent SM,Central SM,4,med SM,Medial SM,4,SM,Sensorimotor,4,cent SM,Central SM
+37,R_5mv,Area 5m Ventral,2,VS,Ventral Salience,2,inf VS,Inferior VS,29,5mv VS,Area 5m Ventral VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+38,R_23c,Area 23c,2,VS,Ventral Salience,23,sup VS,Superior VS,23,sup VS,Superior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+39,R_5L,Area 5L,4,SM,Sensorimotor,4,cent SM,Central SM,4,med SM,Medial SM,4,SM,Sensorimotor,4,cent SM,Central SM
+40,R_24dd,Dorsal Area 24d,4,SM,Sensorimotor,4,cent SM,Central SM,4,med SM,Medial SM,4,SM,Sensorimotor,4,cent SM,Central SM
+41,R_24dv,Ventral Area 24d,4,SM,Sensorimotor,4,cent SM,Central SM,4,med SM,Medial SM,4,SM,Sensorimotor,4,cent SM,Central SM
+42,R_7AL,Lateral Area 7A,4,SM,Sensorimotor,4,cent SM,Central SM,26,para SM,Paracentral SM,4,SM,Sensorimotor,17,para SM,Paracentral SM
+43,R_SCEF,Supplementary and Cingulate Eye Field,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+44,R_6ma,Area 6m Anterior,2,VS,Ventral Salience,23,sup VS,Superior VS,23,sup VS,Superior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+45,R_7Am,Medial Area 7A,6,DS,Dorsal Salience,6,sup DS,Superior DS,37,post DS,Post DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+46,R_7PL,Lateral Area 7P,6,DS,Dorsal Salience,6,sup DS,Superior DS,37,post DS,Post DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+47,R_7PC,Area 7PC,4,SM,Sensorimotor,4,cent SM,Central SM,26,para SM,Paracentral SM,4,SM,Sensorimotor,17,para SM,Paracentral SM
+48,R_LIPv,Area Lateral IntraParietal Ventral,1,VI,Visual,9,para VI,Para VI,9,para VI,Para VI,1,VI,Visual,8,para VI,Para VI
+49,R_VIP,Ventral IntraParietal Complex,1,VI,Visual,9,para VI,Para VI,9,para VI,Para VI,1,VI,Visual,8,para VI,Para VI
+50,R_MIP,Medial IntraParietal Area,6,DS,Dorsal Salience,6,sup DS,Superior DS,6,sup DS,Superior DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+51,R_1,Area 1,4,SM,Sensorimotor,4,cent SM,Central SM,25,cent SM,Central SM,4,SM,Sensorimotor,4,cent SM,Central SM
+52,R_2,Area 2,4,SM,Sensorimotor,4,cent SM,Central SM,26,para SM,Paracentral SM,4,SM,Sensorimotor,17,para SM,Paracentral SM
+53,R_3a,Area 3a,4,SM,Sensorimotor,4,cent SM,Central SM,25,cent SM,Central SM,4,SM,Sensorimotor,4,cent SM,Central SM
+54,R_6d,Dorsal Area 6,4,SM,Sensorimotor,4,cent SM,Central SM,26,para SM,Paracentral SM,4,SM,Sensorimotor,17,para SM,Paracentral SM
+55,R_6mp,Area 6mp,4,SM,Sensorimotor,4,cent SM,Central SM,4,med SM,Medial SM,4,SM,Sensorimotor,4,cent SM,Central SM
+56,R_6v,Ventral Area 6,4,SM,Sensorimotor,12,inf SM,Inferior SM,43,precI SM,Precentral Inferior SM,4,SM,Sensorimotor,18,inf SM,Inferior SM
+57,R_p24pr,Area Posterior 24 Prime,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+58,R_33pr,Area 33 Prime,3,CE,Central Executive,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,6,CE,Central Executive,15,dACC CE,Dorsal Anterior Cingulate Cortex CE
+59,R_a24pr,Anterior 24 Prime,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+60,R_p32pr,Area p32 Prime,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+61,R_a24,Area a24,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+62,R_d32,Area Dorsal 32,3,CE,Central Executive,21,limb CE,Limbic CE,21,limb CE,Limbic CE,6,CE,Central Executive,6,ri CE,Right CE
+63,R_8BM,Area 8BM,3,CE,Central Executive,3,ri CE,Right CE,3,riAL CE,Right Anterolateral CE,6,CE,Central Executive,6,ri CE,Right CE
+64,R_p32,Area p32,3,CE,Central Executive,21,limb CE,Limbic CE,21,limb CE,Limbic CE,3,DM,Default Mode,3,med DM,Medial DM
+65,R_10r,Area 10r,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+66,R_47m,Area 47m,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+67,R_8Av,Area 8Av,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+68,R_8Ad,Area 8Ad,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+69,R_9m,Area 9 Middle,5,DM,Default Mode,13,lang DM,Language DM,40,riDF DM,Right Dorsofrontal DM,3,DM,Default Mode,9,lang DM,Language DM
+70,R_8BL,Area 8B Lateral,5,DM,Default Mode,13,lang DM,Language DM,40,riDF DM,Right Dorsofrontal DM,3,DM,Default Mode,9,lang DM,Language DM
+71,R_9p,Area 9 Posterior,5,DM,Default Mode,13,lang DM,Language DM,40,riDF DM,Right Dorsofrontal DM,3,DM,Default Mode,9,lang DM,Language DM
+72,R_10d,Area 10d,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+73,R_8C,Area 8C,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+74,R_44,Area 44,3,CE,Central Executive,3,ri CE,Right CE,3,riAL CE,Right Anterolateral CE,6,CE,Central Executive,6,ri CE,Right CE
+75,R_45,Area 45,5,DM,Default Mode,13,lang DM,Language DM,48,broca DM,Broca (BA45) DM,3,DM,Default Mode,9,lang DM,Language DM
+76,R_47l,Area 47l (47 Lateral),5,DM,Default Mode,13,lang DM,Language DM,40,riDF DM,Right Dorsofrontal DM,3,DM,Default Mode,9,lang DM,Language DM
+77,R_a47r,Area Anterior 47r,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+78,R_6r,Rostral Area 6,6,DS,Dorsal Salience,16,inf DS,Inferior DS,16,inf DS,Inferior DS,5,DS,Dorsal Salience,13,inf DS,Inferior DS
+79,R_IFJa,Area IFJa,3,CE,Central Executive,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,27,IFJa CE,Inferior Frontal Junction a CE,6,CE,Central Executive,15,dACC CE,Dorsal Anterior Cingulate Cortex CE
+80,R_IFJp,Area IFJp,3,CE,Central Executive,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,42,IFJp CE,Inferior Frontal Junction p CE,6,CE,Central Executive,15,dACC CE,Dorsal Anterior Cingulate Cortex CE
+81,R_IFSp,Area IFSp,3,CE,Central Executive,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,27,IFJa CE,Inferior Frontal Junction a CE,6,CE,Central Executive,15,dACC CE,Dorsal Anterior Cingulate Cortex CE
+82,R_IFSa,Area IFSa,6,DS,Dorsal Salience,16,inf DS,Inferior DS,16,inf DS,Inferior DS,5,DS,Dorsal Salience,13,inf DS,Inferior DS
+83,R_p9-46v,Area Posterior 9-46v,3,CE,Central Executive,3,ri CE,Right CE,49,riPL CE,Right Posterolateral CE,6,CE,Central Executive,6,ri CE,Right CE
+84,R_46,Area 46,2,VS,Ventral Salience,23,sup VS,Superior VS,23,sup VS,Superior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+85,R_a9-46v,Area Anterior 9-46v,3,CE,Central Executive,3,ri CE,Right CE,3,riAL CE,Right Anterolateral CE,6,CE,Central Executive,6,ri CE,Right CE
+86,R_9-46d,Area 9-46d,3,CE,Central Executive,21,limb CE,Limbic CE,47,rACC CE,Rostral Anterior Cingulate Cortex CE,2,VS,Ventral Salience,2,sup VS,Superior VS
+87,R_9a,Area 9 Anterior,5,DM,Default Mode,13,lang DM,Language DM,40,riDF DM,Right Dorsofrontal DM,3,DM,Default Mode,9,lang DM,Language DM
+88,R_10v,Area 10v,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+89,R_a10p,Area Anterior 10p,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+90,R_10pp,Polar 10p,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+91,R_11l,Area 11l,3,CE,Central Executive,3,ri CE,Right CE,3,riAL CE,Right Anterolateral CE,6,CE,Central Executive,6,ri CE,Right CE
+92,R_13l,Area 13l,3,CE,Central Executive,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,6,CE,Central Executive,15,dACC CE,Dorsal Anterior Cingulate Cortex CE
+93,R_OFC,Orbital Frontal Complex,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+94,R_47s,Area 47s,5,DM,Default Mode,13,lang DM,Language DM,40,riDF DM,Right Dorsofrontal DM,3,DM,Default Mode,9,lang DM,Language DM
+95,R_LIPd,Area Lateral IntraParietal Dorsal,3,CE,Central Executive,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,42,IFJp CE,Inferior Frontal Junction p CE,5,DS,Dorsal Salience,5,sup DS,Superior DS
+96,R_6a,Area 6 Anterior,6,DS,Dorsal Salience,6,sup DS,Superior DS,6,sup DS,Superior DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+97,R_i6-8,Inferior 6-8 Transitional Area,3,CE,Central Executive,3,ri CE,Right CE,49,riPL CE,Right Posterolateral CE,6,CE,Central Executive,6,ri CE,Right CE
+98,R_s6-8,Superior 6-8 Transitional Area,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+99,R_43,Area 43,4,SM,Sensorimotor,12,inf SM,Inferior SM,12,paraI SM,Para-inferior SM,2,VS,Ventral Salience,11,inf VS,Inferior VS
+100,R_OP4,Area OP4/PV,4,SM,Sensorimotor,12,inf SM,Inferior SM,44,inf SM,Inferior SM,4,SM,Sensorimotor,18,inf SM,Inferior SM
+101,R_OP1,Area OP1/SII,4,SM,Sensorimotor,4,cent SM,Central SM,26,para SM,Paracentral SM,4,SM,Sensorimotor,17,para SM,Paracentral SM
+102,R_OP2-3,Area OP2-3/VS,4,SM,Sensorimotor,12,inf SM,Inferior SM,44,inf SM,Inferior SM,4,SM,Sensorimotor,18,inf SM,Inferior SM
+103,R_52,Area 52,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+104,R_RI,RetroInsular Cortex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+105,R_PFcm,Area PFcm,4,SM,Sensorimotor,12,inf SM,Inferior SM,12,paraI SM,Para-inferior SM,2,VS,Ventral Salience,11,inf VS,Inferior VS
+106,R_PoI2,Posterior Insular Area 2,4,SM,Sensorimotor,12,inf SM,Inferior SM,12,paraI SM,Para-inferior SM,2,VS,Ventral Salience,11,inf VS,Inferior VS
+107,R_TA2,Area TA2,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+108,R_FOP4,Frontal Opercular Area 4,2,VS,Ventral Salience,2,inf VS,Inferior VS,39,para VS,Paralateral VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+109,R_MI,Middle Insular Area,2,VS,Ventral Salience,2,inf VS,Inferior VS,39,para VS,Paralateral VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+110,R_Pir,Pirform Cortex,4,SM,Sensorimotor,11,audi SM,Auditory SM,38,olfa SM,Olfactory SM,2,VS,Ventral Salience,11,inf VS,Inferior VS
+111,R_AVI,Anterior Ventral Insular Area,3,CE,Central Executive,3,ri CE,Right CE,3,riAL CE,Right Anterolateral CE,6,CE,Central Executive,10,limb CE,Limbic CE
+112,R_AAIC,Anterior Agranular Insula Complex,3,CE,Central Executive,21,limb CE,Limbic CE,47,rACC CE,Rostral Anterior Cingulate Cortex CE,6,CE,Central Executive,10,limb CE,Limbic CE
+113,R_FOP1,Frontal Opercular Area 1,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+114,R_FOP3,Frontal Opercular Area 3,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+115,R_FOP2,Frontal Opercular Area 2,4,SM,Sensorimotor,12,inf SM,Inferior SM,43,precI SM,Precentral Inferior SM,4,SM,Sensorimotor,18,inf SM,Inferior SM
+116,R_PFt,Area PFt,6,DS,Dorsal Salience,6,sup DS,Superior DS,6,sup DS,Superior DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+117,R_AIP,Anterior IntraParietal Area,6,DS,Dorsal Salience,6,sup DS,Superior DS,6,sup DS,Superior DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+118,R_EC,Entorhinal Cortex,5,DM,Default Mode,5,med DM,Medial DM,50,hip DM,Hippocampal DM,3,DM,Default Mode,22,limb DM,Limbic DM
+119,R_PreS,PreSubiculum,5,DM,Default Mode,5,med DM,Medial DM,50,hip DM,Hippocampal DM,3,DM,Default Mode,22,limb DM,Limbic DM
+120,R_H,Hippocampus,5,DM,Default Mode,5,med DM,Medial DM,50,hip DM,Hippocampal DM,3,DM,Default Mode,22,limb DM,Limbic DM
+121,R_ProS,ProStriate Area,1,VI,Visual,1,paraM VI,Paramedial VI,1,paraM VI,Paramedial VI,1,VI,Visual,1,med VI,Medial VI
+122,R_PeEc,Perirhinal Ectorhinal Cortex,5,DM,Default Mode,20,aff DM,Affectice DM,20,aff DM,Affectice DM,3,DM,Default Mode,22,limb DM,Limbic DM
+123,R_STGa,Area STGa,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,3,DM,Default Mode,21,temp DM,Temporal DM
+124,R_PBelt,ParaBelt Complex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+125,R_A5,Auditory 5 Complex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+126,R_PHA1,ParaHippocampal Area 1,5,DM,Default Mode,5,med DM,Medial DM,28,paraPM DM,Para-posterioromedial DM,3,DM,Default Mode,22,limb DM,Limbic DM
+127,R_PHA3,ParaHippocampal Area 3,5,DM,Default Mode,5,med DM,Medial DM,28,paraPM DM,Para-posterioromedial DM,3,DM,Default Mode,22,limb DM,Limbic DM
+128,R_STSda,Area STSd Anterior,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,3,DM,Default Mode,21,temp DM,Temporal DM
+129,R_STSdp,Area STSd Posterior,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,3,DM,Default Mode,21,temp DM,Temporal DM
+130,R_STSvp,Area STSv Posterior,5,DM,Default Mode,13,lang DM,Language DM,40,riDF DM,Right Dorsofrontal DM,3,DM,Default Mode,9,lang DM,Language DM
+131,R_TGd,Area TG Dorsal,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+132,R_TE1a,Area TE1 Anterior,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+133,R_TE1p,Area TE1 Posterior,3,CE,Central Executive,3,ri CE,Right CE,49,riPL CE,Right Posterolateral CE,6,CE,Central Executive,6,ri CE,Right CE
+134,R_TE2a,Area TE2 Anterior,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+135,R_TF,Area TF,5,DM,Default Mode,20,aff DM,Affectice DM,20,aff DM,Affectice DM,3,DM,Default Mode,22,limb DM,Limbic DM
+136,R_TE2p,Area TE2 Posterior,6,DS,Dorsal Salience,16,inf DS,Inferior DS,16,inf DS,Inferior DS,5,DS,Dorsal Salience,13,inf DS,Inferior DS
+137,R_PHT,Area PHT,6,DS,Dorsal Salience,16,inf DS,Inferior DS,16,inf DS,Inferior DS,5,DS,Dorsal Salience,13,inf DS,Inferior DS
+138,R_PH,Area PH,1,VI,Visual,9,para VI,Para VI,31,paraI VI,Para-inferior VI,1,VI,Visual,8,para VI,Para VI
+139,R_TPOJ1,Area TemporoParietoOccipital Junction 1,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,3,DM,Default Mode,21,temp DM,Temporal DM
+140,R_TPOJ2,Area TemporoParietoOccipital Junction 2,2,VS,Ventral Salience,17,post VS,Posterior VS,17,post VS,Posterior VS,2,VS,Ventral Salience,16,post VS,Posterior VS
+141,R_TPOJ3,Area TemporoParietoOccipital Junction 3,1,VI,Visual,15,midL VI,Midlateral VI,15,midL VI,Midlateral VI,1,VI,Visual,14,midL VI,Midlateral VI
+142,R_DVT,Dorsal Transitional Visual Area,1,VI,Visual,1,paraM VI,Paramedial VI,1,paraM VI,Paramedial VI,1,VI,Visual,1,med VI,Medial VI
+143,R_PGp,Area PGp,6,DS,Dorsal Salience,6,sup DS,Superior DS,37,post DS,Post DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+144,R_IP2,Area IntraParietal 2,3,CE,Central Executive,3,ri CE,Right CE,49,riPL CE,Right Posterolateral CE,6,CE,Central Executive,6,ri CE,Right CE
+145,R_IP1,Area IntraParietal 1,3,CE,Central Executive,3,ri CE,Right CE,49,riPL CE,Right Posterolateral CE,6,CE,Central Executive,6,ri CE,Right CE
+146,R_IP0,Area IntraParietal 0,1,VI,Visual,9,para VI,Para VI,32,IP0 VI,IntraParietal 0 VI,1,VI,Visual,8,para VI,Para VI
+147,R_PFop,Area PF Opercular,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+148,R_PF,Area PF Complex,2,VS,Ventral Salience,23,sup VS,Superior VS,23,sup VS,Superior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+149,R_PFm,Area PFm Complex,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+150,R_PGi,Area Pgi,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+151,R_PGs,Area PGs,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+152,R_V6A,Area V6A,1,VI,Visual,1,paraM VI,Paramedial VI,36,postL VI,Posterolateral VI,1,VI,Visual,1,med VI,Medial VI
+153,R_VMV1,VentroMedial Visual Area 1,1,VI,Visual,1,paraM VI,Paramedial VI,1,paraM VI,Paramedial VI,1,VI,Visual,1,med VI,Medial VI
+154,R_VMV3,VentroMedial Visual Area 3,1,VI,Visual,8,infL VI,Inferolateral VI,46,face VI,Face Complex VI,1,VI,Visual,7,infL VI,Inferolateral VI
+155,R_PHA2,ParaHippocampal Area 2,5,DM,Default Mode,5,med DM,Medial DM,28,paraPM DM,Para-posterioromedial DM,3,DM,Default Mode,22,limb DM,Limbic DM
+156,R_V4t,Area V4t,1,VI,Visual,15,midL VI,Midlateral VI,15,midL VI,Midlateral VI,1,VI,Visual,14,midL VI,Midlateral VI
+157,R_FST,Area FST,1,VI,Visual,9,para VI,Para VI,31,paraI VI,Para-inferior VI,1,VI,Visual,8,para VI,Para VI
+158,R_V3CD,Area V3CD,1,VI,Visual,19,supL VI,Superolateral VI,19,supL VI,Superolateral VI,1,VI,Visual,20,supL VI,Superolateral VI
+159,R_LO3,Area Lateral Occipital 3,1,VI,Visual,1,paraM VI,Paramedial VI,36,postL VI,Posterolateral VI,1,VI,Visual,1,med VI,Medial VI
+160,R_VMV2,VentroMedial Visual Area 2,1,VI,Visual,1,paraM VI,Paramedial VI,1,paraM VI,Paramedial VI,1,VI,Visual,1,med VI,Medial VI
+161,R_31pd,Area 31pd,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+162,R_31a,Area 31a,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+163,R_VVC,Ventral Visual Complex,1,VI,Visual,8,infL VI,Inferolateral VI,46,face VI,Face Complex VI,1,VI,Visual,7,infL VI,Inferolateral VI
+164,R_25,Area 25,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+165,R_s32,Area s32,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+166,R_pOFC,Posterior OFC Complex,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,6,CE,Central Executive,10,limb CE,Limbic CE
+167,R_PoI1,Area Posterior Insular 1,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+168,R_Ig,Insular Granular Complex,4,SM,Sensorimotor,12,inf SM,Inferior SM,44,inf SM,Inferior SM,4,SM,Sensorimotor,18,inf SM,Inferior SM
+169,R_FOP5,Area Frontal Opercular 5,2,VS,Ventral Salience,2,inf VS,Inferior VS,39,para VS,Paralateral VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+170,R_p10p,Area Posterior 10p,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+171,R_p47r,Area Posterior 47r,3,CE,Central Executive,3,ri CE,Right CE,3,riAL CE,Right Anterolateral CE,6,CE,Central Executive,6,ri CE,Right CE
+172,R_TGv,Area TG Ventral,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,3,DM,Default Mode,21,temp DM,Temporal DM
+173,R_MBelt,Medial Belt Complex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+174,R_LBelt,Lateral Belt Complex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+175,R_A4,Auditory 4 Complex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+176,R_STSva,Area STSv Anterior,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+177,R_TE1m,Area TE1 Middle,3,CE,Central Executive,3,ri CE,Right CE,30,ri CE,Right CE,6,CE,Central Executive,6,ri CE,Right CE
+178,R_PI,Para-Insular Area,4,SM,Sensorimotor,11,audi SM,Auditory SM,38,olfa SM,Olfactory SM,2,VS,Ventral Salience,11,inf VS,Inferior VS
+179,R_a32pr,Area Anterior 32 Prime,3,CE,Central Executive,21,limb CE,Limbic CE,47,rACC CE,Rostral Anterior Cingulate Cortex CE,2,VS,Ventral Salience,2,sup VS,Superior VS
+180,R_p24,Area Posterior 24,3,CE,Central Executive,21,limb CE,Limbic CE,47,rACC CE,Rostral Anterior Cingulate Cortex CE,6,CE,Central Executive,10,limb CE,Limbic CE
+181,L_V1,Primary Visual Co+C181+C2:C180,1,VI,Visual,22,med VI,Medial VI,22,med VI,Medial VI,1,VI,Visual,1,med VI,Medial VI
+182,L_MST,Medial Superior Temporal Area,1,VI,Visual,15,midL VI,Midlateral VI,15,midL VI,Midlateral VI,1,VI,Visual,14,midL VI,Midlateral VI
+183,L_V6,Sixth Visual Area,1,VI,Visual,1,paraM VI,Paramedial VI,1,paraM VI,Paramedial VI,1,VI,Visual,1,med VI,Medial VI
+184,L_V2,Second Visual Area,1,VI,Visual,22,med VI,Medial VI,22,med VI,Medial VI,1,VI,Visual,1,med VI,Medial VI
+185,L_V3,Third Visual Area,1,VI,Visual,22,med VI,Medial VI,22,med VI,Medial VI,1,VI,Visual,1,med VI,Medial VI
+186,L_V4,Fourth Visual Area,1,VI,Visual,8,infL VI,Inferolateral VI,8,lat VI,Lateral VI,1,VI,Visual,7,infL VI,Inferolateral VI
+187,L_V8,Eighth Visual Area,1,VI,Visual,8,infL VI,Inferolateral VI,46,face VI,Face Complex VI,1,VI,Visual,7,infL VI,Inferolateral VI
+188,L_4,Primary Motor Cortex,4,SM,Sensorimotor,4,cent SM,Central SM,25,cent SM,Central SM,4,SM,Sensorimotor,4,cent SM,Central SM
+189,L_3b,Primary Sensory Cortex,4,SM,Sensorimotor,4,cent SM,Central SM,25,cent SM,Central SM,4,SM,Sensorimotor,4,cent SM,Central SM
+190,L_FEF,Frontal Eye Fields,2,VS,Ventral Salience,2,inf VS,Inferior VS,33,FEF VS,Frontal Eye Fields VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+191,L_PEF,Premotor Eye Field,6,DS,Dorsal Salience,16,inf DS,Inferior DS,34,PEF DS,Premotor Eye Field DS,5,DS,Dorsal Salience,13,inf DS,Inferior DS
+192,L_55b,Area 55b,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,3,DM,Default Mode,21,temp DM,Temporal DM
+193,L_V3A,Area V3A,1,VI,Visual,1,paraM VI,Paramedial VI,36,postL VI,Posterolateral VI,1,VI,Visual,1,med VI,Medial VI
+194,L_RSC,RetroSplenial Complex,3,CE,Central Executive,21,limb CE,Limbic CE,21,limb CE,Limbic CE,6,CE,Central Executive,10,limb CE,Limbic CE
+195,L_POS2,Parieto-Occipital Sulcus Area 2,3,CE,Central Executive,21,limb CE,Limbic CE,21,limb CE,Limbic CE,6,CE,Central Executive,10,limb CE,Limbic CE
+196,L_V7,Seventh Visual Area,1,VI,Visual,19,supL VI,Superolateral VI,19,supL VI,Superolateral VI,1,VI,Visual,20,supL VI,Superolateral VI
+197,L_IPS1,IntraParietal Sulcus Area 1,1,VI,Visual,9,para VI,Para VI,9,para VI,Para VI,1,VI,Visual,8,para VI,Para VI
+198,L_FFC,Fusiform Face Complex,1,VI,Visual,8,infL VI,Inferolateral VI,46,face VI,Face Complex VI,1,VI,Visual,7,infL VI,Inferolateral VI
+199,L_V3B,Area V3B,1,VI,Visual,19,supL VI,Superolateral VI,19,supL VI,Superolateral VI,1,VI,Visual,20,supL VI,Superolateral VI
+200,L_LO1,Area Lateral Occipital 1,1,VI,Visual,8,infL VI,Inferolateral VI,8,lat VI,Lateral VI,1,VI,Visual,7,infL VI,Inferolateral VI
+201,L_LO2,Area Lateral Occipital 2,1,VI,Visual,8,infL VI,Inferolateral VI,8,lat VI,Lateral VI,1,VI,Visual,7,infL VI,Inferolateral VI
+202,L_PIT,Posterior InferoTemporal Complex,1,VI,Visual,8,infL VI,Inferolateral VI,8,lat VI,Lateral VI,1,VI,Visual,7,infL VI,Inferolateral VI
+203,L_MT,Middle Temporal Area,1,VI,Visual,15,midL VI,Midlateral VI,15,midL VI,Midlateral VI,1,VI,Visual,14,midL VI,Midlateral VI
+204,L_A1,Primary Auditory Cortex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+205,L_PSL,PeriSylvian Language Area,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,3,DM,Default Mode,21,temp DM,Temporal DM
+206,L_SFL,Superior Frontal Language Area,5,DM,Default Mode,13,lang DM,Language DM,48,broca DM,Broca (BA45) DM,3,DM,Default Mode,9,lang DM,Language DM
+207,L_PCV,PreCuneus Visual Area,5,DM,Default Mode,5,med DM,Medial DM,28,paraPM DM,Para-posterioromedial DM,3,DM,Default Mode,22,limb DM,Limbic DM
+208,L_STV,Superior Temporal Visual Area,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,3,DM,Default Mode,21,temp DM,Temporal DM
+209,L_7Pm,Medial Area 7P,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+210,L_7m,Area 7m,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+211,L_POS1,Parieto-Occipital Sulcus Area 1,5,DM,Default Mode,5,med DM,Medial DM,28,paraPM DM,Para-posterioromedial DM,3,DM,Default Mode,22,limb DM,Limbic DM
+212,L_23d,Area 23d,3,CE,Central Executive,21,limb CE,Limbic CE,21,limb CE,Limbic CE,6,CE,Central Executive,10,limb CE,Limbic CE
+213,L_v23ab,Area Ventral 23 a+b,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+214,L_d23ab,Area Dorsal 23 a+b,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+215,L_31pv,Area 31p Ventral,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+216,L_5m,Area 5m,4,SM,Sensorimotor,4,cent SM,Central SM,4,med SM,Medial SM,4,SM,Sensorimotor,4,cent SM,Central SM
+217,L_5mv,Area 5m Ventral,2,VS,Ventral Salience,2,inf VS,Inferior VS,29,5mv VS,Area 5m Ventral VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+218,L_23c,Area 23c,2,VS,Ventral Salience,23,sup VS,Superior VS,23,sup VS,Superior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+219,L_5L,Area 5L,4,SM,Sensorimotor,4,cent SM,Central SM,4,med SM,Medial SM,4,SM,Sensorimotor,4,cent SM,Central SM
+220,L_24dd,Dorsal Area 24d,4,SM,Sensorimotor,4,cent SM,Central SM,4,med SM,Medial SM,4,SM,Sensorimotor,4,cent SM,Central SM
+221,L_24dv,Ventral Area 24d,4,SM,Sensorimotor,4,cent SM,Central SM,4,med SM,Medial SM,4,SM,Sensorimotor,4,cent SM,Central SM
+222,L_7AL,Lateral Area 7A,4,SM,Sensorimotor,4,cent SM,Central SM,26,para SM,Paracentral SM,4,SM,Sensorimotor,17,para SM,Paracentral SM
+223,L_SCEF,Supplementary and Cingulate Eye Field,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+224,L_6ma,Area 6m Anterior,2,VS,Ventral Salience,23,sup VS,Superior VS,23,sup VS,Superior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+225,L_7Am,Medial Area 7A,6,DS,Dorsal Salience,6,sup DS,Superior DS,37,post DS,Post DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+226,L_7PL,Lateral Area 7P,6,DS,Dorsal Salience,6,sup DS,Superior DS,37,post DS,Post DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+227,L_7PC,Area 7PC,4,SM,Sensorimotor,4,cent SM,Central SM,26,para SM,Paracentral SM,4,SM,Sensorimotor,17,para SM,Paracentral SM
+228,L_LIPv,Area Lateral IntraParietal Ventral,1,VI,Visual,9,para VI,Para VI,9,para VI,Para VI,1,VI,Visual,8,para VI,Para VI
+229,L_VIP,Ventral IntraParietal Complex,1,VI,Visual,9,para VI,Para VI,9,para VI,Para VI,1,VI,Visual,8,para VI,Para VI
+230,L_MIP,Medial IntraParietal Area,6,DS,Dorsal Salience,6,sup DS,Superior DS,6,sup DS,Superior DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+231,L_1,Area 1,4,SM,Sensorimotor,4,cent SM,Central SM,26,para SM,Paracentral SM,4,SM,Sensorimotor,17,para SM,Paracentral SM
+232,L_2,Area 2,4,SM,Sensorimotor,4,cent SM,Central SM,26,para SM,Paracentral SM,4,SM,Sensorimotor,17,para SM,Paracentral SM
+233,L_3a,Area 3a,4,SM,Sensorimotor,4,cent SM,Central SM,25,cent SM,Central SM,4,SM,Sensorimotor,4,cent SM,Central SM
+234,L_6d,Dorsal Area 6,4,SM,Sensorimotor,4,cent SM,Central SM,26,para SM,Paracentral SM,4,SM,Sensorimotor,17,para SM,Paracentral SM
+235,L_6mp,Area 6mp,4,SM,Sensorimotor,4,cent SM,Central SM,4,med SM,Medial SM,4,SM,Sensorimotor,4,cent SM,Central SM
+236,L_6v,Ventral Area 6,4,SM,Sensorimotor,12,inf SM,Inferior SM,43,precI SM,Precentral Inferior SM,4,SM,Sensorimotor,18,inf SM,Inferior SM
+237,L_p24pr,Area Posterior 24 Prime,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+238,L_33pr,Area 33 Prime,3,CE,Central Executive,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,6,CE,Central Executive,15,dACC CE,Dorsal Anterior Cingulate Cortex CE
+239,L_a24pr,Anterior 24 Prime,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+240,L_p32pr,Area p32 Prime,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+241,L_a24,Area a24,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+242,L_d32,Area Dorsal 32,3,CE,Central Executive,21,limb CE,Limbic CE,21,limb CE,Limbic CE,6,CE,Central Executive,10,limb CE,Limbic CE
+243,L_8BM,Area 8BM,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+244,L_p32,Area p32,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+245,L_10r,Area 10r,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+246,L_47m,Area 47m,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+247,L_8Av,Area 8Av,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+248,L_8Ad,Area 8Ad,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+249,L_9m,Area 9 Middle,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+250,L_8BL,Area 8B Lateral,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+251,L_9p,Area 9 Posterior,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+252,L_10d,Area 10d,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+253,L_8C,Area 8C,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+254,L_44,Area 44,5,DM,Default Mode,13,lang DM,Language DM,48,broca DM,Broca (BA45) DM,3,DM,Default Mode,9,lang DM,Language DM
+255,L_45,Area 45,5,DM,Default Mode,13,lang DM,Language DM,48,broca DM,Broca (BA45) DM,3,DM,Default Mode,9,lang DM,Language DM
+256,L_47l,Area 47l (47 Lateral),5,DM,Default Mode,13,lang DM,Language DM,48,broca DM,Broca (BA45) DM,3,DM,Default Mode,9,lang DM,Language DM
+257,L_a47r,Area Anterior 47r,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+258,L_6r,Rostral Area 6,6,DS,Dorsal Salience,16,inf DS,Inferior DS,16,inf DS,Inferior DS,5,DS,Dorsal Salience,13,inf DS,Inferior DS
+259,L_IFJa,Area IFJa,3,CE,Central Executive,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,27,IFJa CE,Inferior Frontal Junction a CE,6,CE,Central Executive,15,dACC CE,Dorsal Anterior Cingulate Cortex CE
+260,L_IFJp,Area IFJp,3,CE,Central Executive,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,42,IFJp CE,Inferior Frontal Junction p CE,6,CE,Central Executive,15,dACC CE,Dorsal Anterior Cingulate Cortex CE
+261,L_IFSp,Area IFSp,5,DM,Default Mode,13,lang DM,Language DM,48,broca DM,Broca (BA45) DM,3,DM,Default Mode,9,lang DM,Language DM
+262,L_IFSa,Area IFSa,3,CE,Central Executive,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,5,DS,Dorsal Salience,13,inf DS,Inferior DS
+263,L_p9-46v,Area Posterior 9-46v,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+264,L_46,Area 46,2,VS,Ventral Salience,23,sup VS,Superior VS,23,sup VS,Superior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+265,L_a9-46v,Area Anterior 9-46v,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+266,L_9-46d,Area 9-46d,2,VS,Ventral Salience,23,sup VS,Superior VS,23,sup VS,Superior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+267,L_9a,Area 9 Anterior,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+268,L_10v,Area 10v,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+269,L_a10p,Area Anterior 10p,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+270,L_10pp,Polar 10p,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+271,L_11l,Area 11l,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+272,L_13l,Area 13l,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+273,L_OFC,Orbital Frontal Complex,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+274,L_47s,Area 47s,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+275,L_LIPd,Area Lateral IntraParietal Dorsal,3,CE,Central Executive,14,dACC CE,Dorsal Anterior Cingulate Cortex CE,42,IFJp CE,Inferior Frontal Junction p CE,5,DS,Dorsal Salience,5,sup DS,Superior DS
+276,L_6a,Area 6 Anterior,6,DS,Dorsal Salience,6,sup DS,Superior DS,6,sup DS,Superior DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+277,L_i6-8,Inferior 6-8 Transitional Area,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+278,L_s6-8,Superior 6-8 Transitional Area,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+279,L_43,Area 43,4,SM,Sensorimotor,12,inf SM,Inferior SM,12,paraI SM,Para-inferior SM,2,VS,Ventral Salience,11,inf VS,Inferior VS
+280,L_OP4,Area OP4/PV,4,SM,Sensorimotor,12,inf SM,Inferior SM,44,inf SM,Inferior SM,4,SM,Sensorimotor,18,inf SM,Inferior SM
+281,L_OP1,Area OP1/SII,4,SM,Sensorimotor,4,cent SM,Central SM,26,para SM,Paracentral SM,4,SM,Sensorimotor,17,para SM,Paracentral SM
+282,L_OP2-3,Area OP2-3/VS,4,SM,Sensorimotor,12,inf SM,Inferior SM,44,inf SM,Inferior SM,4,SM,Sensorimotor,18,inf SM,Inferior SM
+283,L_52,Area 52,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+284,L_RI,RetroInsular Cortex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+285,L_PFcm,Area PFcm,4,SM,Sensorimotor,12,inf SM,Inferior SM,12,paraI SM,Para-inferior SM,2,VS,Ventral Salience,11,inf VS,Inferior VS
+286,L_PoI2,Posterior Insular Area 2,4,SM,Sensorimotor,12,inf SM,Inferior SM,12,paraI SM,Para-inferior SM,2,VS,Ventral Salience,11,inf VS,Inferior VS
+287,L_TA2,Area TA2,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+288,L_FOP4,Frontal Opercular Area 4,2,VS,Ventral Salience,2,inf VS,Inferior VS,39,para VS,Paralateral VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+289,L_MI,Middle Insular Area,2,VS,Ventral Salience,2,inf VS,Inferior VS,39,para VS,Paralateral VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+290,L_Pir,Pirform Cortex,4,SM,Sensorimotor,11,audi SM,Auditory SM,38,olfa SM,Olfactory SM,2,VS,Ventral Salience,11,inf VS,Inferior VS
+291,L_AVI,Anterior Ventral Insular Area,3,CE,Central Executive,3,ri CE,Right CE,3,riAL CE,Right Anterolateral CE,6,CE,Central Executive,10,limb CE,Limbic CE
+292,L_AAIC,Anterior Agranular Insula Complex,3,CE,Central Executive,21,limb CE,Limbic CE,47,rACC CE,Rostral Anterior Cingulate Cortex CE,6,CE,Central Executive,10,limb CE,Limbic CE
+293,L_FOP1,Frontal Opercular Area 1,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+294,L_FOP3,Frontal Opercular Area 3,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+295,L_FOP2,Frontal Opercular Area 2,4,SM,Sensorimotor,12,inf SM,Inferior SM,43,precI SM,Precentral Inferior SM,4,SM,Sensorimotor,18,inf SM,Inferior SM
+296,L_PFt,Area PFt,6,DS,Dorsal Salience,6,sup DS,Superior DS,6,sup DS,Superior DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+297,L_AIP,Anterior IntraParietal Area,6,DS,Dorsal Salience,6,sup DS,Superior DS,6,sup DS,Superior DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+298,L_EC,Entorhinal Cortex,5,DM,Default Mode,5,med DM,Medial DM,50,hip DM,Hippocampal DM,3,DM,Default Mode,22,limb DM,Limbic DM
+299,L_PreS,PreSubiculum,5,DM,Default Mode,5,med DM,Medial DM,50,hip DM,Hippocampal DM,3,DM,Default Mode,22,limb DM,Limbic DM
+300,L_H,Hippocampus,5,DM,Default Mode,5,med DM,Medial DM,50,hip DM,Hippocampal DM,3,DM,Default Mode,22,limb DM,Limbic DM
+301,L_ProS,ProStriate Area,1,VI,Visual,1,paraM VI,Paramedial VI,1,paraM VI,Paramedial VI,1,VI,Visual,1,med VI,Medial VI
+302,L_PeEc,Perirhinal Ectorhinal Cortex,5,DM,Default Mode,20,aff DM,Affectice DM,20,aff DM,Affectice DM,3,DM,Default Mode,22,limb DM,Limbic DM
+303,L_STGa,Area STGa,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,3,DM,Default Mode,21,temp DM,Temporal DM
+304,L_PBelt,ParaBelt Complex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+305,L_A5,Auditory 5 Complex,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+306,L_PHA1,ParaHippocampal Area 1,5,DM,Default Mode,5,med DM,Medial DM,28,paraPM DM,Para-posterioromedial DM,3,DM,Default Mode,22,limb DM,Limbic DM
+307,L_PHA3,ParaHippocampal Area 3,5,DM,Default Mode,5,med DM,Medial DM,28,paraPM DM,Para-posterioromedial DM,3,DM,Default Mode,22,limb DM,Limbic DM
+308,L_STSda,Area STSd Anterior,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,3,DM,Default Mode,21,temp DM,Temporal DM
+309,L_STSdp,Area STSd Posterior,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,3,DM,Default Mode,21,temp DM,Temporal DM
+310,L_STSvp,Area STSv Posterior,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+311,L_TGd,Area TG Dorsal,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+312,L_TE1a,Area TE1 Anterior,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+313,L_TE1p,Area TE1 Posterior,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+314,L_TE2a,Area TE2 Anterior,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+315,L_TF,Area TF,5,DM,Default Mode,20,aff DM,Affectice DM,20,aff DM,Affectice DM,3,DM,Default Mode,21,temp DM,Temporal DM
+316,L_TE2p,Area TE2 Posterior,6,DS,Dorsal Salience,16,inf DS,Inferior DS,16,inf DS,Inferior DS,5,DS,Dorsal Salience,13,inf DS,Inferior DS
+317,L_PHT,Area PHT,6,DS,Dorsal Salience,16,inf DS,Inferior DS,16,inf DS,Inferior DS,5,DS,Dorsal Salience,13,inf DS,Inferior DS
+318,L_PH,Area PH,1,VI,Visual,9,para VI,Para VI,31,paraI VI,Para-inferior VI,1,VI,Visual,8,para VI,Para VI
+319,L_TPOJ1,Area TemporoParietoOccipital Junction 1,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,3,DM,Default Mode,21,temp DM,Temporal DM
+320,L_TPOJ2,Area TemporoParietoOccipital Junction 2,2,VS,Ventral Salience,17,post VS,Posterior VS,17,post VS,Posterior VS,2,VS,Ventral Salience,16,post VS,Posterior VS
+321,L_TPOJ3,Area TemporoParietoOccipital Junction 3,1,VI,Visual,15,midL VI,Midlateral VI,15,midL VI,Midlateral VI,1,VI,Visual,14,midL VI,Midlateral VI
+322,L_DVT,Dorsal Transitional Visual Area,1,VI,Visual,1,paraM VI,Paramedial VI,1,paraM VI,Paramedial VI,1,VI,Visual,1,med VI,Medial VI
+323,L_PGp,Area PGp,6,DS,Dorsal Salience,6,sup DS,Superior DS,37,post DS,Post DS,5,DS,Dorsal Salience,5,sup DS,Superior DS
+324,L_IP2,Area IntraParietal 2,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+325,L_IP1,Area IntraParietal 1,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+326,L_IP0,Area IntraParietal 0,1,VI,Visual,9,para VI,Para VI,32,IP0 VI,IntraParietal 0 VI,5,DS,Dorsal Salience,5,sup DS,Superior DS
+327,L_PFop,Area PF Opercular,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+328,L_PF,Area PF Complex,2,VS,Ventral Salience,23,sup VS,Superior VS,23,sup VS,Superior VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+329,L_PFm,Area PFm Complex,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+330,L_PGi,Area Pgi,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+331,L_PGs,Area PGs,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+332,L_V6A,Area V6A,1,VI,Visual,1,paraM VI,Paramedial VI,36,postL VI,Posterolateral VI,1,VI,Visual,1,med VI,Medial VI
+333,L_VMV1,VentroMedial Visual Area 1,1,VI,Visual,1,paraM VI,Paramedial VI,1,paraM VI,Paramedial VI,1,VI,Visual,1,med VI,Medial VI
+334,L_VMV3,VentroMedial Visual Area 3,1,VI,Visual,1,paraM VI,Paramedial VI,1,paraM VI,Paramedial VI,1,VI,Visual,1,med VI,Medial VI
+335,L_PHA2,ParaHippocampal Area 2,5,DM,Default Mode,5,med DM,Medial DM,28,paraPM DM,Para-posterioromedial DM,3,DM,Default Mode,22,limb DM,Limbic DM
+336,L_V4t,Area V4t,1,VI,Visual,15,midL VI,Midlateral VI,15,midL VI,Midlateral VI,1,VI,Visual,14,midL VI,Midlateral VI
+337,L_FST,Area FST,1,VI,Visual,9,para VI,Para VI,31,paraI VI,Para-inferior VI,1,VI,Visual,8,para VI,Para VI
+338,L_V3CD,Area V3CD,1,VI,Visual,19,supL VI,Superolateral VI,19,supL VI,Superolateral VI,1,VI,Visual,20,supL VI,Superolateral VI
+339,L_LO3,Area Lateral Occipital 3,1,VI,Visual,1,paraM VI,Paramedial VI,36,postL VI,Posterolateral VI,1,VI,Visual,1,med VI,Medial VI
+340,L_VMV2,VentroMedial Visual Area 2,1,VI,Visual,1,paraM VI,Paramedial VI,1,paraM VI,Paramedial VI,1,VI,Visual,1,med VI,Medial VI
+341,L_31pd,Area 31pd,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+342,L_31a,Area 31a,5,DM,Default Mode,5,med DM,Medial DM,5,postM DM,Posteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+343,L_VVC,Ventral Visual Complex,1,VI,Visual,8,infL VI,Inferolateral VI,46,face VI,Face Complex VI,1,VI,Visual,7,infL VI,Inferolateral VI
+344,L_25,Area 25,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+345,L_s32,Area s32,5,DM,Default Mode,5,med DM,Medial DM,45,antM DM,Anteromedial DM,3,DM,Default Mode,3,med DM,Medial DM
+346,L_pOFC,Posterior OFC Complex,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,6,CE,Central Executive,10,limb CE,Limbic CE
+347,L_PoI1,Area Posterior Insular 1,2,VS,Ventral Salience,2,inf VS,Inferior VS,2,inf VS,Inferior VS,2,VS,Ventral Salience,11,inf VS,Inferior VS
+348,L_Ig,Insular Granular Complex,4,SM,Sensorimotor,12,inf SM,Inferior SM,44,inf SM,Inferior SM,4,SM,Sensorimotor,18,inf SM,Inferior SM
+349,L_FOP5,Area Frontal Opercular 5,2,VS,Ventral Salience,2,inf VS,Inferior VS,39,para VS,Paralateral VS,2,VS,Ventral Salience,2,sup VS,Superior VS
+350,L_p10p,Area Posterior 10p,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+351,L_p47r,Area Posterior 47r,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+352,L_TGv,Area TG Ventral,5,DM,Default Mode,24,temp DM,Temporal DM,24,temp DM,Temporal DM,3,DM,Default Mode,21,temp DM,Temporal DM
+353,L_MBelt,Medial Belt Complex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+354,L_LBelt,Lateral Belt Complex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+355,L_A4,Auditory 4 Complex,4,SM,Sensorimotor,11,audi SM,Auditory SM,11,audi SM,Auditory SM,4,SM,Sensorimotor,12,audi SM,Auditory SM
+356,L_STSva,Area STSv Anterior,5,DM,Default Mode,13,lang DM,Language DM,13,lang DM,Language DM,3,DM,Default Mode,9,lang DM,Language DM
+357,L_TE1m,Area TE1 Middle,3,CE,Central Executive,18,le CE,Left CE,18,le CE,Left CE,6,CE,Central Executive,19,le CE,Left CE
+358,L_PI,Para-Insular Area,4,SM,Sensorimotor,11,audi SM,Auditory SM,38,olfa SM,Olfactory SM,2,VS,Ventral Salience,11,inf VS,Inferior VS
+359,L_a32pr,Area Anterior 32 Prime,3,CE,Central Executive,21,limb CE,Limbic CE,47,rACC CE,Rostral Anterior Cingulate Cortex CE,6,CE,Central Executive,10,limb CE,Limbic CE
+360,L_p24,Area Posterior 24,3,CE,Central Executive,21,limb CE,Limbic CE,47,rACC CE,Rostral Anterior Cingulate Cortex CE,6,CE,Central Executive,10,limb CE,Limbic CE
+361,mAmyg_L,Medial Amygdala,5,DM,Default Mode,20,aff DM,Affectice DM,20,aff DM,Affectice DM,,,,,,
+362,mAmyg_R,Medial Amygdala,5,DM,Default Mode,20,aff DM,Affectice DM,20,aff DM,Affectice DM,,,,,,
+363,lAmyg_L,Lateral Amygdala,5,DM,Default Mode,20,aff DM,Affectice DM,20,aff DM,Affectice DM,,,,,,
+364,lAmyg_R,Lateral Amygdala,5,DM,Default Mode,20,aff DM,Affectice DM,20,aff DM,Affectice DM,,,,,,
+365,rHipp_L,Rostral Hippocampus,5,DM,Default Mode,5,med DM,Medial DM,50,hip DM,Hippocampal DM,,,,,,
+366,rHipp_R,Rostral Hippocampus,5,DM,Default Mode,5,med DM,Medial DM,50,hip DM,Hippocampal DM,,,,,,
+367,cHipp_L,Caudal Hippocampus,5,DM,Default Mode,5,med DM,Medial DM,50,hip DM,Hippocampal DM,,,,,,
+368,cHipp_R,Caudal Hippocampus,5,DM,Default Mode,5,med DM,Medial DM,50,hip DM,Hippocampal DM,,,,,,
+369,vCa_L,Ventral Caudate,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+370,vCa_R,Ventral Caudate,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+371,GP_L,Globus Pallidus,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,41,GPu SC,Globus Pallidus Putamen SC,,,,,,
+372,GP_R,Globus Pallidus,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,41,GPu SC,Globus Pallidus Putamen SC,,,,,,
+373,NAC_L,Nucleus Accumbens,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+374,NAC_R,Nucleus Accumbens,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+375,vmPu_L,Ventromedial Putamen,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,41,GPu SC,Globus Pallidus Putamen SC,,,,,,
+376,vmPu_R,Ventromedial Putamen,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,41,GPu SC,Globus Pallidus Putamen SC,,,,,,
+377,dCa_L,Dorsal Caudate,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+378,dCa_R,Dorsal Caudate,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+379,dlPu_L,Dorsolateral Putamen,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,41,GPu SC,Globus Pallidus Putamen SC,,,,,,
+380,dlPu_R,Dorsolateral Putamen,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,41,GPu SC,Globus Pallidus Putamen SC,,,,,,
+381,mPFtha_L,Medial Pre-frontal Thalamus,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+382,mPFtha_R,Medial Pre-frontal Thalamus,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+383,mPMtha_L,Pre-motor Thalamus,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+384,mPMtha_R,Pre-motor Thalamus,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,41,GPu SC,Globus Pallidus Putamen SC,,,,,,
+385,Stha_L,Sensory Thalamus,4,SM,Sensorimotor,4,cent SM,Central SM,4,med SM,Medial SM,,,,,,
+386,Stha_R,Sensory Thalamus,4,SM,Sensorimotor,4,cent SM,Central SM,4,med SM,Medial SM,,,,,,
+387,rTtha_L,Rostral Temporal Thalamus,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+388,rTtha_R,Rostral Temporal Thalamus,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+389,PPtha_L,Posterior Parietal Thalamus,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,41,GPu SC,Globus Pallidus Putamen SC,,,,,,
+390,PPtha_R,Posterior Parietal Thalamus,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+391,Otha_L,Occipital Thalamus,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+392,Otha_R,Occipital Thalamus,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+393,cTtha_L,Caudal Temporal Thalamus,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+394,cTtha_R,Caudal Temporal Thalamus,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+395,lPFtha_L,Lateral Pre-frontal Thalamus,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+396,lPFtha_R,Lateral Pre-frontal Thalamus,3,CE,Central Executive,10,sc CE,Subcortical CE,10,sc CE,Subcortical CE,,,,,,
+397,Left_I-IV,Lobule I-IV,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+398,Right_I-IV,Lobule I-IV,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+399,Left_V,Lobule V,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+400,Right_V,Lobule V,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+401,Left_VI,Lobule VI,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,7,cb SC,Cerebellar SC,,,,,,
+402,Vermis_VI,Vermis VI,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,7,cb SC,Cerebellar SC,,,,,,
+403,Right_VI,Lobule VI,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,7,cb SC,Cerebellar SC,,,,,,
+404,Left_Crus_I,Crus I,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+405,Vermis_Crus_I,Vermis Crus I,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+406,Right_Crus_I,Crus I,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+407,Left_Crus_II,Crus II,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+408,Vermis_Crus_II,Vermis Crus II,1,VI,Visual,22,med VI,Medial VI,22,med VI,Medial VI,,,,,,
+409,Right_Crus_II,Crus II,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+410,Left_VIIb,Lobule VIIb,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,7,cb SC,Cerebellar SC,,,,,,
+411,Vermis_VIIb,Vermis VIIb,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,7,cb SC,Cerebellar SC,,,,,,
+412,Right_VIIb,Lobule VIIb,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,7,cb SC,Cerebellar SC,,,,,,
+413,Left_VIIIa,Lobule VIIIa,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,7,cb SC,Cerebellar SC,,,,,,
+414,Vermis_VIIIa,Vermis VIIIa,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,7,cb SC,Cerebellar SC,,,,,,
+415,Right_VIIIa,Lobule VIIIa,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,7,cb SC,Cerebellar SC,,,,,,
+416,Left_VIIIb,Lobule VIIIb,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,7,cb SC,Cerebellar SC,,,,,,
+417,Vermis_VIIIb,Vermis VIIIb,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+418,Right_VIIIb,Lobule VIIIb,7,SC,Subcortical,7,GPu SC,Globus Pallidus Putamen SC,7,cb SC,Cerebellar SC,,,,,,
+419,Left_IX,Lobule IX,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+420,Vermis_IX,Vermis IX,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+421,Right_IX,Lobule IX,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+422,Left_X,Lobule X,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+423,Vermis_X,Vermis X,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
+424,Right_X,Lobule X,3,CE,Central Executive,10,sc CE,Subcortical CE,35,cb CE,Cerebellar CE,,,,,,
