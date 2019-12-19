@@ -13,11 +13,11 @@ Teddy J. Akiki, Chadi G. Abdallah
 
 * **A Unique Brain Connectome Fingerprint Predates and Predicts Response to Antidepressants**
 Samaneh Nemati, Teddy J. Akiki, Jeremy Roscoe, Yumeng Ju, Christopher L. Averill, Samar Fouda, Arpan Dutta, Shane McKie, John H. Krystal, J.F. William Deakin, Lynnette A. Averill, Chadi G. Abdallah.
-In revision.
+iScience.
 
 
 ### Notes ###
-A424.dlabel.nii is the anatomical atlas used for the whole-brain parcellation (see Nemati, Akiki, et al.); A424+*.nii.gz files could be used for parcellation of data preprocessed in the volume space, but require GM masking.
+A424.dlabel.nii is the anatomical atlas used for the whole-brain parcellation (see Nemati, Akiki, et al.); A424+*.nii.gz files could be used for parcellation of data preprocessed in the volume space, but will require GM masking.
 
 
 To use the cifti format, download [Connectome Workbench](https://www.humanconnectome.org/software/connectome-workbench)
