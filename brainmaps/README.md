@@ -1,19 +1,19 @@
 If you use the Akiki-Abdallah cortical (AAc) maps with (AAc.plabel.nii) or without MGTR (AAc_noMGTR.plabel.nii), please cite: 
 
 * **Determining the Hierarchical Architecture of the Human Brain Using Subject-Level Clustering of Functional Networks**  
-Teddy J. Akiki, Chadi G. Abdallah
-[bioRxiv 350462 (2019)](https://doi.org/10.1101/350462)
+Teddy J. Akiki, Chadi G. Abdallah  
+Scientific Reports 9, 19290 (2019) doi: [10.1038/s41598-019-55738-y](https://doi.org/10.1038/s41598-019-55738-y)
 
 
 If you use the Akiki-Abdallah whole-brain maps (AA.plabel.nii), please cite both of these references:
 
 * **Determining the Hierarchical Architecture of the Human Brain Using Subject-Level Clustering of Functional Networks**  
-Teddy J. Akiki, Chadi G. Abdallah
-[bioRxiv 350462 (2019)](https://doi.org/10.1101/350462)
+Teddy J. Akiki, Chadi G. Abdallah  
+Scientific Reports 9, 19290 (2019) doi: [10.1038/s41598-019-55738-y](https://doi.org/10.1038/s41598-019-55738-y)
 
-* **A Unique Brain Connectome Fingerprint Predates and Predicts Response to Antidepressants**
-Samaneh Nemati, Teddy J. Akiki, Jeremy Roscoe, Yumeng Ju, Christopher L. Averill, Samar Fouda, Arpan Dutta, Shane McKie, John H. Krystal, J.F. William Deakin, Lynnette A. Averill, Chadi G. Abdallah.
-iScience.
+* **A Unique Brain Connectome Fingerprint Predates and Predicts Response to Antidepressants**  
+Samaneh Nemati, Teddy J. Akiki, Jeremy Roscoe, Yumeng Ju, Christopher L. Averill, Samar Fouda, Arpan Dutta, Shane McKie, John H. Krystal, J.F. William Deakin, Lynnette A. Averill, Chadi G. Abdallah  
+iScience, 100800 (2019) doi: [10.1016/j.isci.2019.100800](https://doi.org/10.1016/j.isci.2019.100800)
 
 
 ### Notes ###
