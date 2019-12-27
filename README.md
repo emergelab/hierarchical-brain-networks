@@ -2,8 +2,7 @@
 
 **Determining the Hierarchical Architecture of the Human Brain Using Subject-Level Clustering of Functional Networks**  
 Teddy J. Akiki, Chadi G. Abdallah
-[bioRxiv 350462 (2019)](https://doi.org/10.1101/350462)
-
+Scientific Reports 9, 19290 (2019) doi: [10.1038/s41598-019-55738-y](https://doi.org/10.1038/s41598-019-55738-y)
 
 ## Installation 
 
