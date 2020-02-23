@@ -23,7 +23,7 @@ A424+*.nii.gz files could be used for parcellation of data preprocessed in the v
 
 A424-to-FreeSurfer-aparc.csv: could be used to convert affiliations between A424 and FS Desikan Killiany atlases
 
-A424-to-Schaefer400: could be used to convert affiliations between A424 and Schaefer et al. (2018) atlases
+A424-to-Schaefer400.csv: could be used to convert affiliations between A424 and Schaefer et al. (2018) atlases
 
 To use the cifti format, download [Connectome Workbench](https://www.humanconnectome.org/software/connectome-workbench)
 
