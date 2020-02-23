@@ -18,8 +18,11 @@ iScience 3(1), 100800 (2020) doi: [10.1016/j.isci.2019.100800](https://doi.org/1
 
 ### Notes ###
 A424.dlabel.nii is the anatomical atlas used for the whole-brain parcellation (see Nemati, Akiki, et al.);
+
 A424+*.nii.gz files could be used for parcellation of data preprocessed in the volume space, but will require GM masking.
+
 A424-to-FreeSurfer-aparc.csv: could be used to convert affiliations between A424 and FS Desikan Killiany atlases
+
 A424-to-Schaefer400: could be used to convert affiliations between A424 and Schaefer et al. (2018) atlases
 
 To use the cifti format, download [Connectome Workbench](https://www.humanconnectome.org/software/connectome-workbench)
