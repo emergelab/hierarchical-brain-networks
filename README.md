@@ -58,3 +58,7 @@ consensusPlot(C,Sc,Tree);
 ## Brain maps
 
 You will find the hierarchical community partition solutions described in the study in the brainmaps folder.
+
+# Extracting A424 time series
+
+Get_A424_TS.m can be used to extract the A424 bold time series from any fMRI.nii.gz in the standard space.
