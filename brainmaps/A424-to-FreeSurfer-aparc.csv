@@ -1,0 +1,425 @@
+﻿A424,HCP-MMP,ROI,FreeSurfer,APARC
+1,R_V1,Primary Visual Co+C181+C2:C180,56,R_pericalcarine
+2,R_MST,Medial Superior Temporal Area,46,R_lateraloccipital
+3,R_V6,Sixth Visual Area,60,R_precuneus
+4,R_V2,Second Visual Area,48,R_lingual
+5,R_V3,Third Visual Area,46,R_lateraloccipital
+6,R_V4,Fourth Visual Area,46,R_lateraloccipital
+7,R_V8,Eighth Visual Area,42,R_fusiform
+8,R_4,Primary Motor Cortex,59,R_precentral
+9,R_3b,Primary Sensory Cortex,57,R_postcentral
+10,R_FEF,Frontal Eye Fields,59,R_precentral
+11,R_PEF,Premotor Eye Field,59,R_precentral
+12,R_55b,Area 55b,59,R_precentral
+13,R_V3A,Area V3A,64,R_superiorparietal
+14,R_RSC,RetroSplenial Complex,45,R_isthmuscingulate
+15,R_POS2,Parieto-Occipital Sulcus Area 2,60,R_precuneus
+16,R_V7,Seventh Visual Area,64,R_superiorparietal
+17,R_IPS1,IntraParietal Sulcus Area 1,64,R_superiorparietal
+18,R_FFC,Fusiform Face Complex,42,R_fusiform
+19,R_V3B,Area V3B,43,R_inferiorparietal
+20,R_LO1,Area Lateral Occipital 1,46,R_lateraloccipital
+21,R_LO2,Area Lateral Occipital 2,46,R_lateraloccipital
+22,R_PIT,Posterior InferoTemporal Complex,46,R_lateraloccipital
+23,R_MT,Middle Temporal Area,46,R_lateraloccipital
+24,R_A1,Primary Auditory Cortex,69,R_transversetemporal
+25,R_PSL,PeriSylvian Language Area,66,R_supramarginal
+26,R_SFL,Superior Frontal Language Area,63,R_superiorfrontal
+27,R_PCV,PreCuneus Visual Area,60,R_precuneus
+28,R_STV,Superior Temporal Visual Area,66,R_supramarginal
+29,R_7Pm,Medial Area 7P,60,R_precuneus
+30,R_7m,Area 7m,60,R_precuneus
+31,R_POS1,Parieto-Occipital Sulcus Area 1,60,R_precuneus
+32,R_23d,Area 23d,58,R_posteriorcingulate
+33,R_v23ab,Area Ventral 23 a+b,60,R_precuneus
+34,R_d23ab,Area Dorsal 23 a+b,45,R_isthmuscingulate
+35,R_31pv,Area 31p Ventral,45,R_isthmuscingulate
+36,R_5m,Area 5m,52,R_paracentral
+37,R_5mv,Area 5m Ventral,52,R_paracentral
+38,R_23c,Area 23c,58,R_posteriorcingulate
+39,R_5L,Area 5L,60,R_precuneus
+40,R_24dd,Dorsal Area 24d,52,R_paracentral
+41,R_24dv,Ventral Area 24d,63,R_superiorfrontal
+42,R_7AL,Lateral Area 7A,64,R_superiorparietal
+43,R_SCEF,Supplementary and Cingulate Eye Field,63,R_superiorfrontal
+44,R_6ma,Area 6m Anterior,63,R_superiorfrontal
+45,R_7Am,Medial Area 7A,60,R_precuneus
+46,R_7PL,Lateral Area 7P,64,R_superiorparietal
+47,R_7PC,Area 7PC,64,R_superiorparietal
+48,R_LIPv,Area Lateral IntraParietal Ventral,64,R_superiorparietal
+49,R_VIP,Ventral IntraParietal Complex,64,R_superiorparietal
+50,R_MIP,Medial IntraParietal Area,64,R_superiorparietal
+51,R_1,Area 1,57,R_postcentral
+52,R_2,Area 2,57,R_postcentral
+53,R_3a,Area 3a,59,R_precentral
+54,R_6d,Dorsal Area 6,59,R_precentral
+55,R_6mp,Area 6mp,59,R_precentral
+56,R_6v,Ventral Area 6,59,R_precentral
+57,R_p24pr,Area Posterior 24 Prime,58,R_posteriorcingulate
+58,R_33pr,Area 33 Prime,37,R_caudalanteriorcingulate
+59,R_a24pr,Anterior 24 Prime,37,R_caudalanteriorcingulate
+60,R_p32pr,Area p32 Prime,63,R_superiorfrontal
+61,R_a24,Area a24,61,R_rostralanteriorcingulate
+62,R_d32,Area Dorsal 32,63,R_superiorfrontal
+63,R_8BM,Area 8BM,63,R_superiorfrontal
+64,R_p32,Area p32,49,R_medialorbitofrontal
+65,R_10r,Area 10r,49,R_medialorbitofrontal
+66,R_47m,Area 47m,47,R_lateralorbitofrontal
+67,R_8Av,Area 8Av,38,R_caudalmiddlefrontal
+68,R_8Ad,Area 8Ad,63,R_superiorfrontal
+69,R_9m,Area 9 Middle,63,R_superiorfrontal
+70,R_8BL,Area 8B Lateral,63,R_superiorfrontal
+71,R_9p,Area 9 Posterior,63,R_superiorfrontal
+72,R_10d,Area 10d,63,R_superiorfrontal
+73,R_8C,Area 8C,38,R_caudalmiddlefrontal
+74,R_44,Area 44,53,R_parsopercularis
+75,R_45,Area 45,55,R_parstriangularis
+76,R_47l,Area 47l (47 Lateral),54,R_parsorbitalis
+77,R_a47r,Area Anterior 47r,62,R_rostralmiddlefrontal
+78,R_6r,Rostral Area 6,59,R_precentral
+79,R_IFJa,Area IFJa,53,R_parsopercularis
+80,R_IFJp,Area IFJp,53,R_parsopercularis
+81,R_IFSp,Area IFSp,62,R_rostralmiddlefrontal
+82,R_IFSa,Area IFSa,62,R_rostralmiddlefrontal
+83,R_p9-46v,Area Posterior 9-46v,62,R_rostralmiddlefrontal
+84,R_46,Area 46,62,R_rostralmiddlefrontal
+85,R_a9-46v,Area Anterior 9-46v,62,R_rostralmiddlefrontal
+86,R_9-46d,Area 9-46d,62,R_rostralmiddlefrontal
+87,R_9a,Area 9 Anterior,62,R_rostralmiddlefrontal
+88,R_10v,Area 10v,49,R_medialorbitofrontal
+89,R_a10p,Area Anterior 10p,62,R_rostralmiddlefrontal
+90,R_10pp,Polar 10p,67,R_frontalpole
+91,R_11l,Area 11l,47,R_lateralorbitofrontal
+92,R_13l,Area 13l,47,R_lateralorbitofrontal
+93,R_OFC,Orbital Frontal Complex,47,R_lateralorbitofrontal
+94,R_47s,Area 47s,47,R_lateralorbitofrontal
+95,R_LIPd,Area Lateral IntraParietal Dorsal,64,R_superiorparietal
+96,R_6a,Area 6 Anterior,59,R_precentral
+97,R_i6-8,Inferior 6-8 Transitional Area,38,R_caudalmiddlefrontal
+98,R_s6-8,Superior 6-8 Transitional Area,63,R_superiorfrontal
+99,R_43,Area 43,59,R_precentral
+100,R_OP4,Area OP4/PV,57,R_postcentral
+101,R_OP1,Area OP1/SII,66,R_supramarginal
+102,R_OP2-3,Area OP2-3/VS,57,R_postcentral
+103,R_52,Area 52,70,R_insula
+104,R_RI,RetroInsular Cortex,66,R_supramarginal
+105,R_PFcm,Area PFcm,66,R_supramarginal
+106,R_PoI2,Posterior Insular Area 2,70,R_insula
+107,R_TA2,Area TA2,65,R_superiortemporal
+108,R_FOP4,Frontal Opercular Area 4,53,R_parsopercularis
+109,R_MI,Middle Insular Area,70,R_insula
+110,R_Pir,Pirform Cortex,70,R_insula
+111,R_AVI,Anterior Ventral Insular Area,47,R_lateralorbitofrontal
+112,R_AAIC,Anterior Agranular Insula Complex,70,R_insula
+113,R_FOP1,Frontal Opercular Area 1,59,R_precentral
+114,R_FOP3,Frontal Opercular Area 3,70,R_insula
+115,R_FOP2,Frontal Opercular Area 2,59,R_precentral
+116,R_PFt,Area PFt,66,R_supramarginal
+117,R_AIP,Anterior IntraParietal Area,64,R_superiorparietal
+118,R_EC,Entorhinal Cortex,51,R_parahippocampal
+119,R_PreS,PreSubiculum,51,R_parahippocampal
+120,R_H,Hippocampus,51,R_parahippocampal
+121,R_ProS,ProStriate Area,48,R_lingual
+122,R_PeEc,Perirhinal Ectorhinal Cortex,41,R_entorhinal
+123,R_STGa,Area STGa,65,R_superiortemporal
+124,R_PBelt,ParaBelt Complex,65,R_superiortemporal
+125,R_A5,Auditory 5 Complex,65,R_superiortemporal
+126,R_PHA1,ParaHippocampal Area 1,51,R_parahippocampal
+127,R_PHA3,ParaHippocampal Area 3,42,R_fusiform
+128,R_STSda,Area STSd Anterior,65,R_superiortemporal
+129,R_STSdp,Area STSd Posterior,65,R_superiortemporal
+130,R_STSvp,Area STSv Posterior,50,R_middletemporal
+131,R_TGd,Area TG Dorsal,68,R_temporalpole
+132,R_TE1a,Area TE1 Anterior,50,R_middletemporal
+133,R_TE1p,Area TE1 Posterior,50,R_middletemporal
+134,R_TE2a,Area TE2 Anterior,44,R_inferiortemporal
+135,R_TF,Area TF,42,R_fusiform
+136,R_TE2p,Area TE2 Posterior,44,R_inferiortemporal
+137,R_PHT,Area PHT,50,R_middletemporal
+138,R_PH,Area PH,44,R_inferiortemporal
+139,R_TPOJ1,Area TemporoParietoOccipital Junction 1,36,R_bankssts
+140,R_TPOJ2,Area TemporoParietoOccipital Junction 2,50,R_middletemporal
+141,R_TPOJ3,Area TemporoParietoOccipital Junction 3,43,R_inferiorparietal
+142,R_DVT,Dorsal Transitional Visual Area,60,R_precuneus
+143,R_PGp,Area PGp,43,R_inferiorparietal
+144,R_IP2,Area IntraParietal 2,43,R_inferiorparietal
+145,R_IP1,Area IntraParietal 1,43,R_inferiorparietal
+146,R_IP0,Area IntraParietal 0,43,R_inferiorparietal
+147,R_PFop,Area PF Opercular,66,R_supramarginal
+148,R_PF,Area PF Complex,66,R_supramarginal
+149,R_PFm,Area PFm Complex,43,R_inferiorparietal
+150,R_PGi,Area Pgi,43,R_inferiorparietal
+151,R_PGs,Area PGs,43,R_inferiorparietal
+152,R_V6A,Area V6A,64,R_superiorparietal
+153,R_VMV1,VentroMedial Visual Area 1,48,R_lingual
+154,R_VMV3,VentroMedial Visual Area 3,42,R_fusiform
+155,R_PHA2,ParaHippocampal Area 2,51,R_parahippocampal
+156,R_V4t,Area V4t,46,R_lateraloccipital
+157,R_FST,Area FST,44,R_inferiortemporal
+158,R_V3CD,Area V3CD,43,R_inferiorparietal
+159,R_LO3,Area Lateral Occipital 3,46,R_lateraloccipital
+160,R_VMV2,VentroMedial Visual Area 2,48,R_lingual
+161,R_31pd,Area 31pd,60,R_precuneus
+162,R_31a,Area 31a,60,R_precuneus
+163,R_VVC,Ventral Visual Complex,42,R_fusiform
+164,R_25,Area 25,49,R_medialorbitofrontal
+165,R_s32,Area s32,49,R_medialorbitofrontal
+166,R_pOFC,Posterior OFC Complex,47,R_lateralorbitofrontal
+167,R_PoI1,Area Posterior Insular 1,70,R_insula
+168,R_Ig,Insular Granular Complex,70,R_insula
+169,R_FOP5,Area Frontal Opercular 5,55,R_parstriangularis
+170,R_p10p,Area Posterior 10p,62,R_rostralmiddlefrontal
+171,R_p47r,Area Posterior 47r,62,R_rostralmiddlefrontal
+172,R_TGv,Area TG Ventral,44,R_inferiortemporal
+173,R_MBelt,Medial Belt Complex,69,R_transversetemporal
+174,R_LBelt,Lateral Belt Complex,65,R_superiortemporal
+175,R_A4,Auditory 4 Complex,65,R_superiortemporal
+176,R_STSva,Area STSv Anterior,50,R_middletemporal
+177,R_TE1m,Area TE1 Middle,50,R_middletemporal
+178,R_PI,Para-Insular Area,65,R_superiortemporal
+179,R_a32pr,Area Anterior 32 Prime,63,R_superiorfrontal
+180,R_p24,Area Posterior 24,37,R_caudalanteriorcingulate
+181,L_V1,Primary Visual Co+C181+C2:C180,21,L_pericalcarine
+182,L_MST,Medial Superior Temporal Area,11,L_lateraloccipital
+183,L_V6,Sixth Visual Area,5,L_cuneus
+184,L_V2,Second Visual Area,13,L_lingual
+185,L_V3,Third Visual Area,11,L_lateraloccipital
+186,L_V4,Fourth Visual Area,11,L_lateraloccipital
+187,L_V8,Eighth Visual Area,7,L_fusiform
+188,L_4,Primary Motor Cortex,24,L_precentral
+189,L_3b,Primary Sensory Cortex,22,L_postcentral
+190,L_FEF,Frontal Eye Fields,24,L_precentral
+191,L_PEF,Premotor Eye Field,24,L_precentral
+192,L_55b,Area 55b,24,L_precentral
+193,L_V3A,Area V3A,29,L_superiorparietal
+194,L_RSC,RetroSplenial Complex,10,L_isthmuscingulate
+195,L_POS2,Parieto-Occipital Sulcus Area 2,25,L_precuneus
+196,L_V7,Seventh Visual Area,29,L_superiorparietal
+197,L_IPS1,IntraParietal Sulcus Area 1,29,L_superiorparietal
+198,L_FFC,Fusiform Face Complex,7,L_fusiform
+199,L_V3B,Area V3B,8,L_inferiorparietal
+200,L_LO1,Area Lateral Occipital 1,11,L_lateraloccipital
+201,L_LO2,Area Lateral Occipital 2,11,L_lateraloccipital
+202,L_PIT,Posterior InferoTemporal Complex,11,L_lateraloccipital
+203,L_MT,Middle Temporal Area,11,L_lateraloccipital
+204,L_A1,Primary Auditory Cortex,34,L_transversetemporal
+205,L_PSL,PeriSylvian Language Area,31,L_supramarginal
+206,L_SFL,Superior Frontal Language Area,28,L_superiorfrontal
+207,L_PCV,PreCuneus Visual Area,25,L_precuneus
+208,L_STV,Superior Temporal Visual Area,30,L_superiortemporal
+209,L_7Pm,Medial Area 7P,25,L_precuneus
+210,L_7m,Area 7m,25,L_precuneus
+211,L_POS1,Parieto-Occipital Sulcus Area 1,25,L_precuneus
+212,L_23d,Area 23d,23,L_posteriorcingulate
+213,L_v23ab,Area Ventral 23 a+b,10,L_isthmuscingulate
+214,L_d23ab,Area Dorsal 23 a+b,10,L_isthmuscingulate
+215,L_31pv,Area 31p Ventral,10,L_isthmuscingulate
+216,L_5m,Area 5m,17,L_paracentral
+217,L_5mv,Area 5m Ventral,17,L_paracentral
+218,L_23c,Area 23c,23,L_posteriorcingulate
+219,L_5L,Area 5L,25,L_precuneus
+220,L_24dd,Dorsal Area 24d,17,L_paracentral
+221,L_24dv,Ventral Area 24d,28,L_superiorfrontal
+222,L_7AL,Lateral Area 7A,29,L_superiorparietal
+223,L_SCEF,Supplementary and Cingulate Eye Field,28,L_superiorfrontal
+224,L_6ma,Area 6m Anterior,28,L_superiorfrontal
+225,L_7Am,Medial Area 7A,25,L_precuneus
+226,L_7PL,Lateral Area 7P,29,L_superiorparietal
+227,L_7PC,Area 7PC,29,L_superiorparietal
+228,L_LIPv,Area Lateral IntraParietal Ventral,29,L_superiorparietal
+229,L_VIP,Ventral IntraParietal Complex,29,L_superiorparietal
+230,L_MIP,Medial IntraParietal Area,29,L_superiorparietal
+231,L_1,Area 1,22,L_postcentral
+232,L_2,Area 2,22,L_postcentral
+233,L_3a,Area 3a,22,L_postcentral
+234,L_6d,Dorsal Area 6,24,L_precentral
+235,L_6mp,Area 6mp,24,L_precentral
+236,L_6v,Ventral Area 6,24,L_precentral
+237,L_p24pr,Area Posterior 24 Prime,23,L_posteriorcingulate
+238,L_33pr,Area 33 Prime,2,L_caudalanteriorcingulate
+239,L_a24pr,Anterior 24 Prime,2,L_caudalanteriorcingulate
+240,L_p32pr,Area p32 Prime,28,L_superiorfrontal
+241,L_a24,Area a24,26,L_rostralanteriorcingulate
+242,L_d32,Area Dorsal 32,28,L_superiorfrontal
+243,L_8BM,Area 8BM,28,L_superiorfrontal
+244,L_p32,Area p32,28,L_superiorfrontal
+245,L_10r,Area 10r,14,L_medialorbitofrontal
+246,L_47m,Area 47m,12,L_lateralorbitofrontal
+247,L_8Av,Area 8Av,3,L_caudalmiddlefrontal
+248,L_8Ad,Area 8Ad,28,L_superiorfrontal
+249,L_9m,Area 9 Middle,28,L_superiorfrontal
+250,L_8BL,Area 8B Lateral,28,L_superiorfrontal
+251,L_9p,Area 9 Posterior,28,L_superiorfrontal
+252,L_10d,Area 10d,28,L_superiorfrontal
+253,L_8C,Area 8C,3,L_caudalmiddlefrontal
+254,L_44,Area 44,18,L_parsopercularis
+255,L_45,Area 45,20,L_parstriangularis
+256,L_47l,Area 47l (47 Lateral),19,L_parsorbitalis
+257,L_a47r,Area Anterior 47r,19,L_parsorbitalis
+258,L_6r,Rostral Area 6,24,L_precentral
+259,L_IFJa,Area IFJa,18,L_parsopercularis
+260,L_IFJp,Area IFJp,3,L_caudalmiddlefrontal
+261,L_IFSp,Area IFSp,18,L_parsopercularis
+262,L_IFSa,Area IFSa,27,L_rostralmiddlefrontal
+263,L_p9-46v,Area Posterior 9-46v,27,L_rostralmiddlefrontal
+264,L_46,Area 46,27,L_rostralmiddlefrontal
+265,L_a9-46v,Area Anterior 9-46v,27,L_rostralmiddlefrontal
+266,L_9-46d,Area 9-46d,27,L_rostralmiddlefrontal
+267,L_9a,Area 9 Anterior,27,L_rostralmiddlefrontal
+268,L_10v,Area 10v,14,L_medialorbitofrontal
+269,L_a10p,Area Anterior 10p,27,L_rostralmiddlefrontal
+270,L_10pp,Polar 10p,27,L_rostralmiddlefrontal
+271,L_11l,Area 11l,12,L_lateralorbitofrontal
+272,L_13l,Area 13l,12,L_lateralorbitofrontal
+273,L_OFC,Orbital Frontal Complex,12,L_lateralorbitofrontal
+274,L_47s,Area 47s,12,L_lateralorbitofrontal
+275,L_LIPd,Area Lateral IntraParietal Dorsal,29,L_superiorparietal
+276,L_6a,Area 6 Anterior,28,L_superiorfrontal
+277,L_i6-8,Inferior 6-8 Transitional Area,3,L_caudalmiddlefrontal
+278,L_s6-8,Superior 6-8 Transitional Area,28,L_superiorfrontal
+279,L_43,Area 43,24,L_precentral
+280,L_OP4,Area OP4/PV,22,L_postcentral
+281,L_OP1,Area OP1/SII,31,L_supramarginal
+282,L_OP2-3,Area OP2-3/VS,35,L_insula
+283,L_52,Area 52,30,L_superiortemporal
+284,L_RI,RetroInsular Cortex,31,L_supramarginal
+285,L_PFcm,Area PFcm,31,L_supramarginal
+286,L_PoI2,Posterior Insular Area 2,35,L_insula
+287,L_TA2,Area TA2,30,L_superiortemporal
+288,L_FOP4,Frontal Opercular Area 4,18,L_parsopercularis
+289,L_MI,Middle Insular Area,35,L_insula
+290,L_Pir,Pirform Cortex,35,L_insula
+291,L_AVI,Anterior Ventral Insular Area,12,L_lateralorbitofrontal
+292,L_AAIC,Anterior Agranular Insula Complex,35,L_insula
+293,L_FOP1,Frontal Opercular Area 1,24,L_precentral
+294,L_FOP3,Frontal Opercular Area 3,35,L_insula
+295,L_FOP2,Frontal Opercular Area 2,24,L_precentral
+296,L_PFt,Area PFt,31,L_supramarginal
+297,L_AIP,Anterior IntraParietal Area,31,L_supramarginal
+298,L_EC,Entorhinal Cortex,16,L_parahippocampal
+299,L_PreS,PreSubiculum,16,L_parahippocampal
+300,L_H,Hippocampus,16,L_parahippocampal
+301,L_ProS,ProStriate Area,10,L_isthmuscingulate
+302,L_PeEc,Perirhinal Ectorhinal Cortex,6,L_entorhinal
+303,L_STGa,Area STGa,30,L_superiortemporal
+304,L_PBelt,ParaBelt Complex,30,L_superiortemporal
+305,L_A5,Auditory 5 Complex,30,L_superiortemporal
+306,L_PHA1,ParaHippocampal Area 1,16,L_parahippocampal
+307,L_PHA3,ParaHippocampal Area 3,7,L_fusiform
+308,L_STSda,Area STSd Anterior,30,L_superiortemporal
+309,L_STSdp,Area STSd Posterior,30,L_superiortemporal
+310,L_STSvp,Area STSv Posterior,15,L_middletemporal
+311,L_TGd,Area TG Dorsal,33,L_temporalpole
+312,L_TE1a,Area TE1 Anterior,15,L_middletemporal
+313,L_TE1p,Area TE1 Posterior,9,L_inferiortemporal
+314,L_TE2a,Area TE2 Anterior,9,L_inferiortemporal
+315,L_TF,Area TF,7,L_fusiform
+316,L_TE2p,Area TE2 Posterior,9,L_inferiortemporal
+317,L_PHT,Area PHT,15,L_middletemporal
+318,L_PH,Area PH,9,L_inferiortemporal
+319,L_TPOJ1,Area TemporoParietoOccipital Junction 1,1,L_bankssts
+320,L_TPOJ2,Area TemporoParietoOccipital Junction 2,8,L_inferiorparietal
+321,L_TPOJ3,Area TemporoParietoOccipital Junction 3,8,L_inferiorparietal
+322,L_DVT,Dorsal Transitional Visual Area,25,L_precuneus
+323,L_PGp,Area PGp,8,L_inferiorparietal
+324,L_IP2,Area IntraParietal 2,31,L_supramarginal
+325,L_IP1,Area IntraParietal 1,29,L_superiorparietal
+326,L_IP0,Area IntraParietal 0,8,L_inferiorparietal
+327,L_PFop,Area PF Opercular,31,L_supramarginal
+328,L_PF,Area PF Complex,31,L_supramarginal
+329,L_PFm,Area PFm Complex,31,L_supramarginal
+330,L_PGi,Area Pgi,8,L_inferiorparietal
+331,L_PGs,Area PGs,8,L_inferiorparietal
+332,L_V6A,Area V6A,29,L_superiorparietal
+333,L_VMV1,VentroMedial Visual Area 1,13,L_lingual
+334,L_VMV3,VentroMedial Visual Area 3,7,L_fusiform
+335,L_PHA2,ParaHippocampal Area 2,16,L_parahippocampal
+336,L_V4t,Area V4t,11,L_lateraloccipital
+337,L_FST,Area FST,9,L_inferiortemporal
+338,L_V3CD,Area V3CD,8,L_inferiorparietal
+339,L_LO3,Area Lateral Occipital 3,11,L_lateraloccipital
+340,L_VMV2,VentroMedial Visual Area 2,13,L_lingual
+341,L_31pd,Area 31pd,25,L_precuneus
+342,L_31a,Area 31a,23,L_posteriorcingulate
+343,L_VVC,Ventral Visual Complex,7,L_fusiform
+344,L_25,Area 25,14,L_medialorbitofrontal
+345,L_s32,Area s32,14,L_medialorbitofrontal
+346,L_pOFC,Posterior OFC Complex,12,L_lateralorbitofrontal
+347,L_PoI1,Area Posterior Insular 1,35,L_insula
+348,L_Ig,Insular Granular Complex,35,L_insula
+349,L_FOP5,Area Frontal Opercular 5,20,L_parstriangularis
+350,L_p10p,Area Posterior 10p,27,L_rostralmiddlefrontal
+351,L_p47r,Area Posterior 47r,27,L_rostralmiddlefrontal
+352,L_TGv,Area TG Ventral,9,L_inferiortemporal
+353,L_MBelt,Medial Belt Complex,34,L_transversetemporal
+354,L_LBelt,Lateral Belt Complex,30,L_superiortemporal
+355,L_A4,Auditory 4 Complex,30,L_superiortemporal
+356,L_STSva,Area STSv Anterior,15,L_middletemporal
+357,L_TE1m,Area TE1 Middle,15,L_middletemporal
+358,L_PI,Para-Insular Area,30,L_superiortemporal
+359,L_a32pr,Area Anterior 32 Prime,28,L_superiorfrontal
+360,L_p24,Area Posterior 24,26,L_rostralanteriorcingulate
+361,mAmyg_L,Medial Amygdala,,
+362,mAmyg_R,Medial Amygdala,,
+363,lAmyg_L,Lateral Amygdala,,
+364,lAmyg_R,Lateral Amygdala,,
+365,rHipp_L,Rostral Hippocampus,,
+366,rHipp_R,Rostral Hippocampus,,
+367,cHipp_L,Caudal Hippocampus,,
+368,cHipp_R,Caudal Hippocampus,,
+369,vCa_L,Ventral Caudate,,
+370,vCa_R,Ventral Caudate,,
+371,GP_L,Globus Pallidus,,
+372,GP_R,Globus Pallidus,,
+373,NAC_L,Nucleus Accumbens,,
+374,NAC_R,Nucleus Accumbens,,
+375,vmPu_L,Ventromedial Putamen,,
+376,vmPu_R,Ventromedial Putamen,,
+377,dCa_L,Dorsal Caudate,,
+378,dCa_R,Dorsal Caudate,,
+379,dlPu_L,Dorsolateral Putamen,,
+380,dlPu_R,Dorsolateral Putamen,,
+381,mPFtha_L,Medial Pre-frontal Thalamus,,
+382,mPFtha_R,Medial Pre-frontal Thalamus,,
+383,mPMtha_L,Pre-motor Thalamus,,
+384,mPMtha_R,Pre-motor Thalamus,,
+385,Stha_L,Sensory Thalamus,,
+386,Stha_R,Sensory Thalamus,,
+387,rTtha_L,Rostral Temporal Thalamus,,
+388,rTtha_R,Rostral Temporal Thalamus,,
+389,PPtha_L,Posterior Parietal Thalamus,,
+390,PPtha_R,Posterior Parietal Thalamus,,
+391,Otha_L,Occipital Thalamus,,
+392,Otha_R,Occipital Thalamus,,
+393,cTtha_L,Caudal Temporal Thalamus,,
+394,cTtha_R,Caudal Temporal Thalamus,,
+395,lPFtha_L,Lateral Pre-frontal Thalamus,,
+396,lPFtha_R,Lateral Pre-frontal Thalamus,,
+397,Left_I-IV,Lobule I-IV,,
+398,Right_I-IV,Lobule I-IV,,
+399,Left_V,Lobule V,,
+400,Right_V,Lobule V,,
+401,Left_VI,Lobule VI,,
+402,Vermis_VI,Vermis VI,,
+403,Right_VI,Lobule VI,,
+404,Left_Crus_I,Crus I,,
+405,Vermis_Crus_I,Vermis Crus I,,
+406,Right_Crus_I,Crus I,,
+407,Left_Crus_II,Crus II,,
+408,Vermis_Crus_II,Vermis Crus II,,
+409,Right_Crus_II,Crus II,,
+410,Left_VIIb,Lobule VIIb,,
+411,Vermis_VIIb,Vermis VIIb,,
+412,Right_VIIb,Lobule VIIb,,
+413,Left_VIIIa,Lobule VIIIa,,
+414,Vermis_VIIIa,Vermis VIIIa,,
+415,Right_VIIIa,Lobule VIIIa,,
+416,Left_VIIIb,Lobule VIIIb,,
+417,Vermis_VIIIb,Vermis VIIIb,,
+418,Right_VIIIb,Lobule VIIIb,,
+419,Left_IX,Lobule IX,,
+420,Vermis_IX,Vermis IX,,
+421,Right_IX,Lobule IX,,
+422,Left_X,Lobule X,,
+423,Vermis_X,Vermis X,,
+424,Right_X,Lobule X,,

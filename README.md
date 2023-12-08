@@ -47,7 +47,7 @@ end
 
 #### Generating a group-level consensus
 
-Now you can use [HierarchicalConsensus](https://github.com/LJeub/HierarchicalConsensus) to generate a co-classification matrix followed by the concensus clustering algorithm.
+Now you can use [HierarchicalConsensus](https://github.com/LJeub/HierarchicalConsensus) algorithm ([Jeub et al., 2018](https://doi.org/10.1038/s41598-018-21352-7)) to generate a co-classification matrix followed by the concensus clustering algorithm.
 
 ```Matlab
 C=coclassificationMatrix(all_ci_combined);
